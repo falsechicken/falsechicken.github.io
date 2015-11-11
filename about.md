@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a freelance software developer. 
 
-### More Information
+## GPG Key
 
-A place to include any other types of information that you'd like to include about yourself.
+#####[Keybase.io](https://keybase.io/falsechicken)
+
+#####[Binary]({{ site.url }}/files/false_chicken.gpg)
+
+#####[Plain Text]({{ site.url }}/files/false_chicken.gpg.txt)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmdevsupport@gmail.com](mailto:jmdevsupport@gmail.com)
