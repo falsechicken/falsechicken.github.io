@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a freelance software developer. 
+I am a freelance software developer. I have experience with Java, C#, Lua, and I'm currently giving Go a whirl. 
 
 ## GPG Key
 
@@ -14,6 +14,8 @@ I am a freelance software developer.
 
 #####[Plain Text]({{ site.url }}/files/false_chicken.gpg.txt)
 
-### Contact me
+### Contact Me
 
-[jmdevsupport@gmail.com](mailto:jmdevsupport@gmail.com)
+Email: [jmdevsupport@gmail.com](mailto:jmdevsupport@gmail.com)  
+  
+XMPP: [false_chicken@bam.yt](xmpp:false_chicken@bam.yt)
