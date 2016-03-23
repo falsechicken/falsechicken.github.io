@@ -6,15 +6,15 @@ permalink: /about/
 
 I am a freelance software developer. I have experience with Java, C#, Lua, and I'm currently giving Go a whirl. 
 
-## GPG Key
+<h2> GPG Key </h2>
 
-#####[Keybase.io](https://keybase.io/falsechicken)
+[Keybase.io](https://keybase.io/falsechicken)
 
-#####[Binary]({{ site.url }}/files/false_chicken.gpg)
+[Binary]({{ site.url }}/files/false_chicken.gpg)
 
-#####[Plain Text]({{ site.url }}/files/false_chicken.gpg.txt)
+[Plain Text]({{ site.url }}/files/false_chicken.gpg.txt)
 
-### Contact Me
+<h2> Contact Me </h2>
 
 Email: [jmdevsupport@gmail.com](mailto:jmdevsupport@gmail.com)  
   

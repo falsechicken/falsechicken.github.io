@@ -4,7 +4,7 @@ title: Donate
 permalink: /donate/
 ---
           
-#####Like my work? Please consider donating some Bitcoin!
+<h4>Like my work? Please consider donating some Bitcoin!</h4>
 <br>
 <a href="bitcoin:1EkPfoz5fytPemx2infigBTAho1AYLuwHF">1EkPfoz5fytPemx2infigBTAho1AYLuwHF</a>
 <br>
