@@ -18,4 +18,4 @@ I am a freelance software developer. I have experience with Java, C#, Lua, and I
 
 Email: [jmdevsupport@gmail.com](mailto:jmdevsupport@gmail.com)  
   
-XMPP: [false_chicken@bam.yt](xmpp:false_chicken@bam.yt)
+XMPP: [falsechicken@chickensnest.us](xmpp:falsechicken@chickensnest.us)
